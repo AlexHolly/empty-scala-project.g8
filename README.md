@@ -1,4 +1,4 @@
-## [giter8](http://github.com/n8han/giter8) template for empty Scala sbt project
+## [giter8](http://github.com/n8han/giter8) template
 
 ### uses
 * Scala 2.11.7
